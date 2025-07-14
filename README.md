@@ -215,7 +215,7 @@
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets)
 - [Data.gov](https://catalog.data.gov/dataset/)
 - [World Bank](https://data.worldbank.org/)
-- [GitHub Repo](https://github.com/rashakil-ds/Public-Datasets)
+- [GitHub Repo]()
 
 ---------------------
 
