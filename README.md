@@ -244,4 +244,6 @@ By following this roadmap step-by-step, you’ll gain the skills needed to succe
 # Other Roadmaps
 - [Read Now]()
 
+## License
 
+[MIT License](LICENSE)
